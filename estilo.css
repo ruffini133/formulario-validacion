@@ -1,0 +1,21 @@
+.form-control {
+    width: 50%;
+}
+header {
+    margin-bottom: 80px;
+}
+.inputsContainer {
+    margin-bottom: 50px;
+}
+.checkBoxsContainer {
+    margin-bottom: 25px;
+}
+button {
+    margin-top: 30px;
+}
+footer {
+    margin-left: 10px;
+}
+* {
+    margin-left: 5px;
+}
